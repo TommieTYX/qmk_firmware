@@ -2,7 +2,6 @@
     "keyboard_name": "KBD75 rev2",
     "manufacturer": "KBDfans",
     "maintainer": "qmk",
-	"modules": ["getreuer/socd_cleaner"],
     "usb": {
         "vid": "0x4B42",
         "pid": "0x6061",
